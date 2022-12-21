@@ -5322,7 +5322,7 @@ namespace BaZiFuZuGongJu
                     }
                     if (buttonnz.Text == xuu)
                     {
-                        button13.Text = bijian; button13.BackColor = Color.Transparent; button13.ForeColor = Color.Black;
+                        button13.Text = bijian; button13.BackColor = Color.Transparent; button13.ForeColor = Color.Red;
                         button14.Text = shangguan; button14.BackColor = Color.Transparent; button14.ForeColor = Color.Black;
                         button15.Text = zhengyin; button15.BackColor = Color.White; button15.ForeColor = Color.Red;
                     }
@@ -5335,7 +5335,7 @@ namespace BaZiFuZuGongJu
                     if (buttonnz.Text == wei)
                     {
                         button13.Text = jiecai; button13.BackColor = Color.White; button13.ForeColor = Color.Red;
-                        button14.Text = zhengyin; button14.BackColor = Color.Transparent; button14.ForeColor = Color.Black;
+                        button14.Text = zhengyin; button14.BackColor = Color.Transparent; button14.ForeColor = Color.Red;
                         button15.Text = zhengguan; button15.BackColor = Color.Transparent; button15.ForeColor = Color.Black;
                     }
                     if (buttonnz.Text == hai)
@@ -6722,7 +6722,7 @@ namespace BaZiFuZuGongJu
                     }
                     if (buttonyz.Text == xuu)
                     {
-                        button17.Text = bijian; button17.BackColor = Color.Transparent; button17.ForeColor = Color.Black;
+                        button17.Text = bijian; button17.BackColor = Color.Transparent; button17.ForeColor = Color.Red;
                         button18.Text = shangguan; button18.BackColor = Color.Transparent; button18.ForeColor = Color.Black;
                         button6.Text = zhengyin; button6.BackColor = Color.White; button6.ForeColor = Color.Red;
                     }
@@ -6735,7 +6735,7 @@ namespace BaZiFuZuGongJu
                     if (buttonyz.Text == wei)
                     {
                         button17.Text = jiecai; button17.BackColor = Color.White; button17.ForeColor = Color.Red;
-                        button18.Text = zhengyin; button18.BackColor = Color.Transparent; button18.ForeColor = Color.Black;
+                        button18.Text = zhengyin; button18.BackColor = Color.Transparent; button18.ForeColor = Color.Red;
                         button6.Text = zhengguan; button6.BackColor = Color.Transparent; button6.ForeColor = Color.Black;
                     }
                     if (buttonyz.Text == hai)
@@ -8122,7 +8122,7 @@ namespace BaZiFuZuGongJu
                     }
                     if (buttonrz.Text == xuu)
                     {
-                        button19.Text = bijian; button19.BackColor = Color.Transparent; button19.ForeColor = Color.Black;
+                        button19.Text = bijian; button19.BackColor = Color.Transparent; button19.ForeColor = Color.Red;
                         button21.Text = shangguan; button21.BackColor = Color.Transparent; button21.ForeColor = Color.Black;
                         button20.Text = zhengyin; button20.BackColor = Color.White; button20.ForeColor = Color.Red;
                     }
@@ -8135,7 +8135,7 @@ namespace BaZiFuZuGongJu
                     if (buttonrz.Text == wei)
                     {
                         button19.Text = jiecai; button19.BackColor = Color.White; button19.ForeColor = Color.Red;
-                        button21.Text = zhengyin; button21.BackColor = Color.Transparent; button21.ForeColor = Color.Black;
+                        button21.Text = zhengyin; button21.BackColor = Color.Transparent; button21.ForeColor = Color.Red;
                         button20.Text = zhengguan; button20.BackColor = Color.Transparent; button20.ForeColor = Color.Black;
                     }
                     if (buttonrz.Text == hai)
@@ -9522,7 +9522,7 @@ namespace BaZiFuZuGongJu
                     }
                     if (buttonsz.Text == xuu)
                     {
-                        button22.Text = bijian; button22.BackColor = Color.Transparent; button22.ForeColor = Color.Black;
+                        button22.Text = bijian; button22.BackColor = Color.Transparent; button22.ForeColor = Color.Red;
                         button23.Text = shangguan; button23.BackColor = Color.Transparent; button23.ForeColor = Color.Black;
                         button24.Text = zhengyin; button24.BackColor = Color.White; button24.ForeColor = Color.Red;
                     }
@@ -9535,7 +9535,7 @@ namespace BaZiFuZuGongJu
                     if (buttonsz.Text == wei)
                     {
                         button22.Text = jiecai; button22.BackColor = Color.White; button22.ForeColor = Color.Red;
-                        button23.Text = zhengyin; button23.BackColor = Color.Transparent; button23.ForeColor = Color.Black;
+                        button23.Text = zhengyin; button23.BackColor = Color.Transparent; button23.ForeColor = Color.Red;
                         button24.Text = zhengguan; button24.BackColor = Color.Transparent; button24.ForeColor = Color.Black;
                     }
                     if (buttonsz.Text == hai)
